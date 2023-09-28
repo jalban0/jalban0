@@ -1,11 +1,12 @@
-<br>
+# Bem-vindo ao meu Repositório!
 
-# Jonathas Albano
+Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas e este é o meu repositório no GitHub. Aqui você encontrará projetos relacionados aos meus estudos e experiências na área de programação.
 
-<br>
+## Sobre Mim
 
-## Bem vindo ao meu perfil GitHub 👋
-### Tenho 20 anos, atuo com Administração de Recursos Humanos a mais de 3 anos e estou em transição de carreira para a área de tecnologia. Desde de criança sou apaixonado por tecnologia, sou fascinado por conhecimento, sustentabilidade e por projetos disruptivos, amo o mundo da programação, ela nos proporciona uma infinidade de possibilidades e resultados.🧑‍💻
+- 👨‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Minhas principais habilidades incluem Java, Git, MySQL e SQL.
+- 🌱 Estou sempre aprendendo e buscando melhorar minhas habilidades de programação.
 
 <br>
 
