@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Repositório!
 
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas e este é o meu repositório no GitHub. Aqui você encontrará projetos relacionados aos meus estudos e experiências na área de programação.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e este é o meu repositório no GitHub. Aqui você encontrará projetos relacionados aos meus estudos e experiências na área de programação.
 
 ## Sobre Mim
 
